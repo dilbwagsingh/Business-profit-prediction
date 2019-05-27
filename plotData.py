@@ -9,5 +9,7 @@ def plotData(X,y):
 	plt.title("Scatter plot of training data",color = "Blue",size = 15);
 	plt.xlabel("Population of cities in 10,000s");
 	plt.ylabel("Profit in $10,000s");
-	plt.scatter(X,y,color="green",marker="x")
+	plt.scatter(X,y,color="green",marker="x",label = "data-points")
+	plt.legend();
+	plt.grid(linestyle = ":");
 	
