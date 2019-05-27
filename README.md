@@ -9,4 +9,6 @@ The [data1.txt](https://github.com/dilbwagsingh/Business-profit-prediction/blob/
 2. Clone or download the repository.
 3. Open the main.py file and run it using a python3.x interpreter.
 
+Any sort of improvement to the existing model is appreciated.
+
 **Note** : This project was originally written in python-3.7.3 and maynot be compatible with older python variants
